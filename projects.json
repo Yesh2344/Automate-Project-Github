@@ -1,0 +1,152 @@
+[
+    {
+        "name": "3D-Cube",
+        "description": "This code is to generate the 3d Cube Code for Python.",
+        "url": "https://github.com/Yesh2344/3D-Cube"
+    },
+    {
+        "name": "4bitadder",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/4bitadder"
+    },
+    {
+        "name": "aharoJ",
+        "description": "Software Engineer",
+        "url": "https://github.com/Yesh2344/aharoJ"
+    },
+    {
+        "name": "AI_Document_Summarizer",
+        "description": "This is an AI Document Summarizer which will summarize the PDF File which you have uploaded.",
+        "url": "https://github.com/Yesh2344/AI_Document_Summarizer"
+    },
+    {
+        "name": "BangtanVibes",
+        "description": "ARMYVerse is a fan-made website dedicated to celebrating the world of BTS and their incredible impact on music, culture, and fans worldwide. The website features various sections such as a Home Page, a BTS Members section, the latest News related to the group, and a Gallery to showcase their performances and unforgettable moments.",
+        "url": "https://github.com/Yesh2344/BangtanVibes"
+    },
+    {
+        "name": "Business_Analyzer_Dashboard",
+        "description": "This is a python code project which is used to get more insights on data.",
+        "url": "https://github.com/Yesh2344/Business_Analyzer_Dashboard"
+    },
+    {
+        "name": "Code-Snippet-Manager",
+        "description": "This is a code snippet manager which will allow instructors or managers to recruiter new people for the company.",
+        "url": "https://github.com/Yesh2344/Code-Snippet-Manager"
+    },
+    {
+        "name": "CodeAnalyzer",
+        "description": "Here the Code analyzer is used to analyze the code for lines.",
+        "url": "https://github.com/Yesh2344/CodeAnalyzer"
+    },
+    {
+        "name": "codeeditor",
+        "description": "This code editor leverages Streamlit and Streamlit Ace to provide an interactive and user-friendly environment for code editing within a web application.",
+        "url": "https://github.com/Yesh2344/codeeditor"
+    },
+    {
+        "name": "CodeHelper",
+        "description": "This is the log codehelper which will allow us to get more of the code logs to be created with major updates.",
+        "url": "https://github.com/Yesh2344/CodeHelper"
+    },
+    {
+        "name": "Crypto_tracker",
+        "description": "This is a crypto tracker which will help us get the most of the crypto data from the internet.",
+        "url": "https://github.com/Yesh2344/Crypto_tracker"
+    },
+    {
+        "name": "DevDashboard",
+        "description": "This is a developer Dashboard.",
+        "url": "https://github.com/Yesh2344/DevDashboard"
+    },
+    {
+        "name": "gogs",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/gogs"
+    },
+    {
+        "name": "GymMaster",
+        "description": "This is a gym master dashboard where you can get all kinds of members addition and maintainance.",
+        "url": "https://github.com/Yesh2344/GymMaster"
+    },
+    {
+        "name": "Image-to-PDF-converter",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/Image-to-PDF-converter"
+    },
+    {
+        "name": "Image_Generator",
+        "description": "Image_Generator",
+        "url": "https://github.com/Yesh2344/Image_Generator"
+    },
+    {
+        "name": "llm-translation-project",
+        "description": "Enhancing Low-Resource Machine Translation through Large Language Models",
+        "url": "https://github.com/Yesh2344/llm-translation-project"
+    },
+    {
+        "name": "MediaPlayer",
+        "description": "My own personal media player.",
+        "url": "https://github.com/Yesh2344/MediaPlayer"
+    },
+    {
+        "name": "Mood-based-music-recommendation",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/Mood-based-music-recommendation"
+    },
+    {
+        "name": "password_generator",
+        "description": "This is a password generator for the project which is to generate password.",
+        "url": "https://github.com/Yesh2344/password_generator"
+    },
+    {
+        "name": "Password_vault",
+        "description": "This is a password vault which keeps all of your passwords safe and secure.",
+        "url": "https://github.com/Yesh2344/Password_vault"
+    },
+    {
+        "name": "Python_GUI",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/Python_GUI"
+    },
+    {
+        "name": "Python_random_task",
+        "description": "This code is to generate python task for more information.",
+        "url": "https://github.com/Yesh2344/Python_random_task"
+    },
+    {
+        "name": "Quiz_Game",
+        "description": "\"Which Avenger are you?\" Quiz game created by OOP Python Code.",
+        "url": "https://github.com/Yesh2344/Quiz_Game"
+    },
+    {
+        "name": "Readysetgo",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/Readysetgo"
+    },
+    {
+        "name": "Smart_note_organizer",
+        "description": "**Smart Note Organizer**: Creates and organizes markdown notes with automatic keyword extraction and metadata. Perfect for organizing study materials and quick reference.",
+        "url": "https://github.com/Yesh2344/Smart_note_organizer"
+    },
+    {
+        "name": "stock-prediction-with-dashboard",
+        "description": "No description available.",
+        "url": "https://github.com/Yesh2344/stock-prediction-with-dashboard"
+    },
+    {
+        "name": "Student-Planner",
+        "description": "A student planning Ui with excel dashboard.",
+        "url": "https://github.com/Yesh2344/Student-Planner"
+    },
+    {
+        "name": "Student_deadline_tracker",
+        "description": "Here is the deadline tracker for the Students to caught on their assignments from day to day.",
+        "url": "https://github.com/Yesh2344/Student_deadline_tracker"
+    },
+    {
+        "name": "StudyTimer",
+        "description": "A Study timer for the Students.",
+        "url": "https://github.com/Yesh2344/StudyTimer"
+    }
+]
