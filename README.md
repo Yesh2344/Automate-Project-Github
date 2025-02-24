@@ -50,3 +50,13 @@ The project includes a GitHub Actions workflow that automatically updates your p
 - Updates the `projects.json` file
 - Commits and pushes changes automatically
 
+## 📂 Project Structure
+
+```
+├── app.py                    # Main Streamlit application
+├── fetch_github_projects.py  # GitHub data fetcher
+├── projects.json            # Cached project data
+├── .github/workflows        # GitHub Actions workflow
+└── README.md               # Project documentation
+```
+
