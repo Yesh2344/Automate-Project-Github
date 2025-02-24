@@ -59,4 +59,12 @@ The project includes a GitHub Actions workflow that automatically updates your p
 ├── .github/workflows        # GitHub Actions workflow
 └── README.md               # Project documentation
 ```
+## 🎨 Customization
+
+### Modifying the Theme
+
+The app uses custom CSS for styling. To modify the appearance:
+1. Locate the CSS section in `app.py`
+2. Adjust colors, sizes, and effects as needed
+3. Changes will be reflected immediately upon app refresh
 
