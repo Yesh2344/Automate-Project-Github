@@ -28,3 +28,25 @@ pip install streamlit requests
    - Open `fetch_github_projects.py`
    - Update `GITHUB_USERNAME` with your GitHub username
 
+## 🚀 Usage
+
+1. Run the initial project fetch:
+```bash
+python fetch_github_projects.py
+```
+
+2. Start the Streamlit app:
+```bash
+streamlit run app.py
+```
+
+3. Visit `http://localhost:8501` in your browser
+
+## 🔄 Automatic Updates
+
+The project includes a GitHub Actions workflow that automatically updates your project list daily. The workflow:
+- Runs every day at midnight UTC
+- Fetches your latest GitHub repositories
+- Updates the `projects.json` file
+- Commits and pushes changes automatically
+
