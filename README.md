@@ -59,6 +59,7 @@ The project includes a GitHub Actions workflow that automatically updates your p
 ├── .github/workflows        # GitHub Actions workflow
 └── README.md               # Project documentation
 ```
+
 ## 🎨 Customization
 
 ### Modifying the Theme
@@ -68,3 +69,30 @@ The app uses custom CSS for styling. To modify the appearance:
 2. Adjust colors, sizes, and effects as needed
 3. Changes will be reflected immediately upon app refresh
 
+### Card Layout
+
+Each project card displays:
+- Project name with an emoji icon
+- Project description
+- Star and fork counts
+- GitHub repository link
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- Built with [Streamlit](https://streamlit.io/)
+- GitHub API for repository data
+- GitHub Actions for automation
